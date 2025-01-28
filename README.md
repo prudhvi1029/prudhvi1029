@@ -76,8 +76,21 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ### EXCEL
 
+#### Sales & Finance Performance Analysis
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/6fa108f1-4870-48d1-ad83-76b14e29fddb"> **[Sales & Finance Performance Analysis](https://github.com/prudhvi1029/Excel-Sales-Analytics)**
+</p>In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
+</p>
+<br><br><br>
+
+
+
+#### Bank Loan Visualization Dashboard
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/6377a8b2-6260-430b-9328-a87703b5b5db"> **[Bank Loan Visualization Dashboard](https://github.com/prudhvi1029/Excel-Sales-Analytics)**
+</p>The goal of this project is to provide insights into key loan-related metrics, track changes over time, and facilitate data-driven decision-making. The project includes various types of visualizations created using Excel's built-in tools.
+</p>
+<br><br><br>
+
 ---
 
-### <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prudhvi1029&theme=vision-friendly-dark&show_icons=true&locale=en" alt="prudhvi1029" width="38%" height="38%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=5ifar&theme=dark&show_icons=true" alt="prudhvi1029" width="40%" height="40%"> </div>
+### <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prudhvi1029&theme=vision-friendly-dark&show_icons=true&locale=en" alt="prudhvi1029" width="38%" height="38%">
 ### <div align="center"> <img src="https://komarev.com/ghpvc/?username=prudhvi1029&style=for-the-badge&color=orange&base=300" alt="prudhvi1029"/> </div>
-<!--<img align="left" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5ifar&theme=dark" alt="5ifar" width="40%" height="40%">-->
