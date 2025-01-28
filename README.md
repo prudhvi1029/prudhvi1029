@@ -76,8 +76,13 @@ Explore my Git repositories to see how I can contribute to your team’s success
 <img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/f427ea6a-d474-4308-9c72-de1544b7758b"> **[Hotel Booking Analysis](https://github.com/prudhvi1029/Hotel-Booking-Analysis-Using-Python)**
 </p> In this project, I analyzed 3 months of data for AtliQ Grands, an imaginary company, to identify revenue loss and occupancy disparities across four cities. To help the hotel regain its competitive edge, I processed over 10,000 data points using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. I cleaned, analyzed, and visualized the data, computing occupancy rates and examining city-specific revenue trends to optimize resource allocation and pricing strategies. I delivered actionable recommendations, including dynamic pricing, platform optimization, and seasonal campaigns, projected to boost revenue by 20% and improve occupancy rates.
 </p>
-<br><br><br>
+<br><br>
 
+#### **IBM Data Analyst Capstone**
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/aab8e577-64fa-46a4-a7b5-a5f8f551fe45"> **[IBM Data Analyst Capstone](https://github.com/prudhvi1029/IBM-data-analytics-capstone-Dashboard)**
+</p> In this project, I collected, cleaned, and analyzed survey data from over 90,000 global software professionals using APIs, web scraping, and data wrangling techniques. Through robust preprocessing, I improved data reliability and reduced analysis errors by 20%. I conducted exploratory data analysis and created compelling visualizations using Python libraries like Matplotlib and Seaborn. This helped uncover key trends in technology usage, emerging skills, and market demands. Additionally, I designed and implemented a dynamic, user-friendly dashboard in IBM Cognos , enabling stakeholders to interact with insights and make data-driven decisions.
+</p>
+<br><br><br>
 
 ---
 
@@ -87,15 +92,16 @@ Explore my Git repositories to see how I can contribute to your team’s success
 <img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/6fa108f1-4870-48d1-ad83-76b14e29fddb"> **[Sales & Finance Performance Analysis](https://github.com/prudhvi1029/Excel-Sales-Analytics)**
 </p>In this project I explored AtliQ Hardware - Customer, Product and Market Performance data from 2019 to 2021. Using Microsoft Excel I crafted key Sales and Finance Reports for strategic decision making, leveraging ETL methodologies, Power Query, Data Modelling, DAX and Pivot Tables.
 </p>
-<br><br><br>
-
-
+<br><br>
+.
 
 #### Bank Loan Visualization Dashboard
+
 <img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/6377a8b2-6260-430b-9328-a87703b5b5db"> **[Bank Loan Visualization Dashboard](https://github.com/prudhvi1029/Excel-Sales-Analytics)**
 </p>The goal of this project is to provide insights into key loan-related metrics, track changes over time, and facilitate data-driven decision-making. The project includes various types of visualizations created using Excel's built-in tools.
 </p>
 <br><br><br>
+
 
 ---
 
