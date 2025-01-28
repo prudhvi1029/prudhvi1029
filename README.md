@@ -72,6 +72,13 @@ Explore my Git repositories to see how I can contribute to your team’s success
 
 ### PYTHON
 
+#### **Hotel Booking Analysis**
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/f427ea6a-d474-4308-9c72-de1544b7758b"> **[Hotel Booking Analysis](https://github.com/prudhvi1029/Hotel-Booking-Analysis-Using-Python)**
+</p> In this project, I analyzed 3 months of data for AtliQ Grands, an imaginary company, to identify revenue loss and occupancy disparities across four cities. To help the hotel regain its competitive edge, I processed over 10,000 data points using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. I cleaned, analyzed, and visualized the data, computing occupancy rates and examining city-specific revenue trends to optimize resource allocation and pricing strategies. I delivered actionable recommendations, including dynamic pricing, platform optimization, and seasonal campaigns, projected to boost revenue by 20% and improve occupancy rates.
+</p>
+<br><br><br>
+
+
 ---
 
 ### EXCEL
