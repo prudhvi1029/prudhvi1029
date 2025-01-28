@@ -2,7 +2,7 @@
 
 ## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prudhvi+Sai+Guntupalli.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
 
-### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvisaiguntupalli/) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://mavenanalytics.io/profile/Sagar-More/206376940) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connect2prudhvisai@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+1)5517276709-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
+### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvisaiguntupalli/) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://mavenanalyts.io/profile/Sagar-More/206376940) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connect2prudhvisai@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+1)5517276709-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
 
 Welcome to my GitHub profile!
 
