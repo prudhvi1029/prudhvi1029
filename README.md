@@ -53,7 +53,7 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ### POWER BI
 
 #### Business Insights 360
-<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/3dd2e04f-e582-40c0-9fc7-cfb22a1def9a"> **[Business Insights 360](https://github.com/prudhvi1029/Business-Insights-360)**
+<img align="left" width="300" height="200" src= "https://github.com/user-attachments/assets/8de9eecc-d31e-4b97-92f6-d8ca75c74c9a"> **[Business Insights 360](https://github.com/prudhvi1029/Business-Insights-360)**
 </p> In this project I implemented meticulous ETL process on AtliQ Hardware's 1.8 million transaction records from FY 2019 to FY 2022 and crafted a multi-view report for comprehensive analysis across 5 critical business domains: Finance, Sales, Marketing, Supply Chain, and Executive using Power BI. By integrating key business metrics such as Net Sales, COGS, Gross Margin %, Net Profit % and Forecast Accuracy % the report offers a holistic view of AtliQ's performance.
 </p>
 <br><br>
@@ -67,6 +67,19 @@ Explore my Git repositories to see how I can contribute to your team’s success
 ---
 
 ### SQL
+
+
+#### Ad-Hoc SQL Analysis for Goodcabs
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/73dd3cdd-0689-465c-b580-093da477d8a8"> **[GoodCabs-Ad-Hoc-Data-Analysis](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis)**
+</p>Goodcabs, a ride-hailing service operating in tier-2 cities, needed better insights from its trip and passenger data. The company wanted to analyze trip patterns, passenger behavior, and business performance to improve decision-making. This project focuses on conducting ad-hoc analysis using MySQL and Jupyter Notebook to answer critical business questions.
+</p>
+<br><br>
+
+#### Consumer Goods Analysis  
+<img align="left" width="300" height="200" src="https://github.com/user-attachments/assets/3e979de1-da88-495b-9a47-29c53f1ecaf9"> **[Consumer Goods Analysis](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods)**
+</p>Ad-Hoc SQL Analysis for Atliq Hardware is a project I worked on to simulate a hiring challenge at a fictional company called Atliq Hardware—a top computer hardware producer in India with branches worldwide. My goal was to demonstrate my SQL expertise and presentation skills by solving ten real-world business questions. Through this project, I transformed raw data into clear insights that would help company leaders make better decisions.
+</p>
+<br><br><br>
 
 ---
 
