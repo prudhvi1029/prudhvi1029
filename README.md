@@ -1,34 +1,30 @@
 <!-- ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center"> -->
 
-## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prudhvi+Sai+Guntupalli.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
+<div align="center">
 
-### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvisaiguntupalli/) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://mavenanalyts.io/profile/Sagar-More/206376940) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connect2prudhvisai@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+1)5517276709-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Data+%26+Operations+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+SAP+B1;Turning+plant+%26+ERP+data+into+decisions" alt="Typing SVG" />
 
-Welcome to my GitHub profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvisaiguntupalli/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect2prudhvisai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](ADD_YOUR_PORTFOLIO_OR_DASHBOARD_LINK)
+[![Certifications](https://img.shields.io/badge/Certifications-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](ADD_YOUR_GOOGLE_DRIVE_CERTS_LINK)
 
-### 🌟 **About Me**
-
-Hello! I'm Prudhvi Sai Guntupalli, an aspiring Data Analyst with a master's degree in information technology and the IBM Data Analyst Professional Certificate. Passionate about transforming complex data sets into clear, impactful insights, I am actively seeking entry-level opportunities to bring my analytical skills and technical expertise to the forefront of data analysis.
-
----
-
-### 🚀 **Technical Proficiencies**
-
-**Data Cleaning and Wrangling:** Skilled in using Python libraries like Pandas and NumPy, advanced Excel functions such as pivot tables, VLOOKUP, and XLOOKUP, and Power Query for data transformation and preparation.
-
-**Data Analysis and Visualization:** Proficient in creating dynamic dashboards and generating insightful reports with Power BI and IBM Cognos Analytics. Additionally, I have extensive experience in Python visualization tools including Seaborn and Plotly, enabling sophisticated graphical representations of data.
-
-**Advanced Data Techniques:** Experienced in SQL for crafting complex database queries, regression analysis for developing predictive models, and ETL processes. Proficient in data modeling using Star and Snowflake schemas to optimize data storage and retrieval.
+</div>
 
 ---
 
-### 🔍 **Career Objective**
+### 👋 About Me
 
-I am eager to leverage my technical skills and passion for data-driven problem solving in a role that enables me to contribute to impactful projects and collaborate with experienced professionals. I am particularly interested in opportunities that allow for continuous growth in both my technical and strategic data analysis capabilities.
+I'm **Prudhvi Sai Guntupalli**, a data & operations analyst working in **building-materials manufacturing** (GGBS slag cement). I started as an **Inventory & SAP Data Analyst** and was promoted to **Operations Analyst / Management Coordinator**, where I:
 
-Explore my Git repositories to see how I can contribute to your team’s success and reach out to me for opportunities, collaboration, feedback or just to say Hi!
+- Led an **SAP Business One implementation** end to end — requirements gathering across 7 departments, vendor coordination, and go-live support.
+- Built the plant's **sales and operations KPI dashboards** in Power BI — specific power (kWh/MT), gas consumption, downtime root-cause, and product quality.
+- Designed an **MRO inventory system** and a **preventive-maintenance program** from scratch for a plant under construction.
+
+IBM Data Analytics certified with an M.S. in Information Technology. I turn ERP, sales, and plant-operations data into decisions for leadership — and I'm currently expanding into **AI-assisted analytics** (Anthropic Claude API) to streamline maintenance and reporting workflows.
 
 ---
+
 
 # My Toolkit:
 
