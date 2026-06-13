@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvisaiguntupalli/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect2prudhvisai@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](ADD_YOUR_PORTFOLIO_OR_DASHBOARD_LINK)
-[![Certifications](https://img.shields.io/badge/Certifications-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](ADD_YOUR_GOOGLE_DRIVE_CERTS_LINK)
+[![Certifications](https://img.shields.io/badge/Certifications-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/1/folders/14dV2otkX4uOopMyDFm5PROjFJKFA3WKC)
 
 </div>
 
